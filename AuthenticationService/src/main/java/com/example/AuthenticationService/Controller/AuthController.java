@@ -1,5 +1,6 @@
 package com.example.AuthenticationService.Controller;
 
+import com.example.AuthenticationService.Entity.User;
 import com.example.AuthenticationService.Service.AuthService;
 import org.springframework.web.bind.annotation.*;
 
